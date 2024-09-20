@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "username": "mohamed",
+        "isAdmin": true,
+        "skills": ["dart", "flutter"]
+    },
+    {
+        "id": 2,
+        "username": "ahmed",
+        "isAdmin": false,
+        "skills": ["dart", "flutter"]
+    }
+]
